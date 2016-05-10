@@ -1,0 +1,41 @@
+body {
+    background: #0F0D0D;
+    color: #0F0D0D;
+}
+
+a {
+    cursor: pointer;
+    color: #0F0D0D;
+}
+
+a:hover {
+    color: #00213B;
+}
+
+nav a {
+    color: #36798D;
+}
+
+nav a:hover {
+    color: #2D60A5;
+}
+
+nav > a.name {
+    float: right;
+}
+
+nav {
+    background: #00213B;
+    padding: 0.5em;
+}
+
+#section-content {
+    background: #326370;
+    border: 1px dashed #00213B;
+}
+
+#section-content, nav {
+    padding: 0.5em;
+    max-width: 920px;
+    margin: 0 auto;
+}
