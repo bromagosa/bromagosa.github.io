@@ -1,23 +1,23 @@
 body {
-    background: #0F0D0D;
-    color: #0F0D0D;
+    background: #FAEDCA;
+    color: #F2C078;
 }
 
 a {
     cursor: pointer;
-    color: #0F0D0D;
+    color: #F2C078;
 }
 
 a:hover {
-    color: #00213B;
+    color: #FE5D26;
 }
 
 nav a {
-    color: #36798D;
+    color: #FE5D26;
 }
 
 nav a:hover {
-    color: #2D60A5;
+    color: #F2C078;
 }
 
 nav > a.name {
@@ -25,12 +25,12 @@ nav > a.name {
 }
 
 nav {
-    background: #00213B;
+    background: #C1DBB3;
     padding: 0.5em;
 }
 
 #section-content {
-    background: #326370;
+    background: #7EBC89;
     border: 1px dashed #00213B;
 }
 
