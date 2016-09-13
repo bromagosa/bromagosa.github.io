@@ -8,14 +8,18 @@
 ## Still in the Oven
 [Beetle Cloud](https://github.com/bromagosa/beetleCloud) - Parallel cloud for Beetle Blocks, plus its sharing site.  
 
+
 ## Need some Love
 [Snapi](http://snapi.citilab.eu) - A Snap*!* mod aimed at working with APIs and OpenData.  
 [Ludus](http://bromagosa.github.io/Ludus/) - Build HTML5 games in Amber Smalltalk, all without leaving your browser.  
+[Scaena](http://scaenaweb.citilab.eu:8081/scaena) - Generate technical riders for music bands. Never completely finished, but quite functional. Source is [here](http://www.squeaksource.com/scaena).
+
 
 ## In Need of Major Surgery
 [ReCeCo](http://smalltalkhub.com/#!/~Citilab/ReCeCo) - A behemoth of a PMS we built at the Citilab during dark times. Written in Pharo Smalltalk and the Iliad web framework.  
 [Smalltalk Tutor](http://www.squeaksource.com/smalltalkTutor.html) - An online programming school I was hired by the Citilab to build. Built with Pharo Smalltalk, the Iliad web framework and Amber (called JTalk then). Unfortunately never finished.  
 [Neo4St](http://smalltalkhub.com/#!/~Citilab/Neo4St) - An incomplete library providing native bindings for the Neo4j graph database for Pharo Smalltalk.  
+
 
 ## Beyond Hope
 [Scat](https://code.google.com/archive/p/scat/) - A terribly named attempt to port Scratch to Pharo Smalltalk. A new team took over and now it's called [Phratch](http://www.phratch.com).  
