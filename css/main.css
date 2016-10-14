@@ -1,16 +1,16 @@
 body {
-    background: #FAEDCA;
-    color: #FAEDCA;
+    background: #23211D;
+    color: #23211D;
     padding-top: 2em;
 }
 
 a {
     cursor: pointer;
-    color: #FE5D26;
+    color: #922F0D;
 }
 
 a:hover {
-    color: #F2C078;
+    color: #A75E44;
 }
 
 nav > a.name {
@@ -18,15 +18,15 @@ nav > a.name {
 }
 
 nav {
-    background: #C1DBB3;
-    border: 1px dashed #FE5D26;
+    background: #B9B9B9;
+    border: 1px dashed #23211D;
     border-bottom: none;
     padding: 0.5em;
 }
 
 #section-content {
-    background: #7EBC89;
-    border: 1px dashed #FE5D26;
+    background: #CACACA;
+    border: 1px dashed #23211D;
 }
 
 #section-content, nav {
