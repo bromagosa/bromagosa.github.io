@@ -17,6 +17,10 @@ nav > a.name {
     float: right;
 }
 
+nav > a {
+    text-decoration: none;
+}
+
 nav {
     background: #B9B9B9;
     border: 1px dashed #23211D;
