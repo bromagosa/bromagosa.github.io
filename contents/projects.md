@@ -1,7 +1,7 @@
 ## Alive and Kicking
 [Snap4Arduino](http://snap4arduino.org) - Control Arduino boards with Berkeley Snap*!*, available in 10 different flavors.  
 [Beetle Blocks](http://beetleblocks.com) - Dynamically control a 3D beetle in a blocks programming environment based in Snap*!* to build 3D-printable things.  
-[Beetle Cloud](https://github.com/bromagosa/beetleCloud) - Parallel cloud for Beetle Blocks, plus its sharing site. The actual live site is [beetleblocks.com](http://beetleblocks.com).  
+[Beetle Cloud](https://github.com/bromagosa/beetleCloud) - Parallel cloud for Beetle Blocks, plus its sharing site. The actual live site is [beetleblocks.com](http://beetleblocks.com). Here's [my profile](http://beetleblocks.com/users/bromagosa) on the site.  
 
 
 ## Still in the Oven
