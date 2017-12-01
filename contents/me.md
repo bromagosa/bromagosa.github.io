@@ -10,4 +10,4 @@ I hold a Bachelor's degree in Computer Science and a Master's degree in Free Sof
 
 I am currently freelancing, so if you have a project related to Snap<i>!</i> for me, drop me a line!
 
-You can reach me at bernat (at) snap4arduino (dot) rocks, and you can also check out my [GitHub](https://github.com/bromagosa) or follow me on [Twitter](https://twitter.com/bromagosa). 
+You can reach me at bernat (at) romagosa (dot) work, and you can also check out my [GitHub](https://github.com/bromagosa) or follow me on [Twitter](https://twitter.com/bromagosa). 

@@ -1,11 +1,14 @@
 ## Alive and Kicking
-[Snap4Arduino](http://snap4arduino.org) - Control Arduino boards with Berkeley Snap*!*, available in 10 different flavors.  
+[Snap4Arduino](http://snap4arduino.rocks) - Control Arduino boards with Berkeley Snap*!*, available in 10 different flavors.  
 [Beetle Blocks](http://beetleblocks.com) - Dynamically control a 3D beetle in a blocks programming environment based in Snap*!* to build 3D-printable things.  
 [Beetle Cloud](https://github.com/bromagosa/beetleCloud) - Parallel cloud for Beetle Blocks, plus its sharing site. The actual live site is [beetleblocks.com](http://beetleblocks.com). Here's [my profile](http://beetleblocks.com/users/bromagosa) on the site.  
 
 
 ## Still in the Oven
 [SnapSite](https://github.com/bromagosa/SnapSite) - The upcoming Snap*!* social website.  
+[SnapCloud](https://github.com/bromagosa/SnapCloud) - The upcoming new Snap*!* cloud, from which the social website feeds.  
+[Snap Arcade Machine](#) - Not yet even public, but I'm working (with [Rita]() and [Chris](http://gatopelao.org/)) on a full size arcade machine where kids can write their own games with Snap*!*.  
+[MicroBlocks](http://microblocks.fun) - In spring 2018, [John Maloney](https://harc.ycr.org/member/john_maloney/), [Jens Mönig](https://github.com/jmoenig) and myself are going to release the pre-alpha version of a new project we've been working on since about January 2017. Let us know if you'd like to participate in testing it!  
 
 
 ## Need some Love
