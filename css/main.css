@@ -1,7 +1,8 @@
 body {
-    background: #23211D;
+    background: #23211D url("bg.png") repeat;
     color: #23211D;
     padding-top: 2em;
+    animation: bg 3s infinite linear;
 }
 
 a {
@@ -37,4 +38,9 @@ nav {
     padding: 0.5em;
     max-width: 920px;
     margin: 0 auto;
+}
+
+@keyframes bg {
+    0% { background-position: 0; }
+    100% { background-position: 33px; }
 }
