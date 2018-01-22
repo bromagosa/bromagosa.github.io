@@ -3,3 +3,4 @@
 * _2015_: [El zoo de la computación](files/zoo.pdf) - Comunicación & Pedagogia Magazine (in Spanish)
 * _2016_: [Un gato blanco para el autonomismo dinámico](files/GatoBlanco.pdf) - Comunicación & Pedagogia Magazine (in Spanish)
 * _2016_: [From the Turtle to the Beetle: The Beetle Blocks programming environment](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/52807/6/bromagosaTFM0716mem%C3%B2ria.pdf) - Master's Thesis, Master's Degree in Free Software, UOC
+* _2017_: [The Snap! Programming System](files/snap-springer.pdf) - Springer Encyclopedia of Education and Information Technologies. Free to use for non-commercial and educational purposes
