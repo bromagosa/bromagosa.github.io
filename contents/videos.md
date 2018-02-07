@@ -6,4 +6,4 @@ I also keep a [Snap4Arduino playlist](https://www.youtube.com/playlist?list=PL5O
 
 [Here](https://www.youtube.com/watch?v=Baox7w8D_TA)'s a talk I gave at Scratch@Bordeaux2017 about Snap4Arduino.  
 
-
+[Here](https://magsamond.com/2018/02/04/so-what-good-is-scratch-you-ask-a-perfect-pitch-3-minutes-answer-from-bromagosa/)'s a short conversation between my friend [Mags Amond](https://magsamond.com) and me about why Scratch is relevant and totally not just a toy.  
