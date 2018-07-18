@@ -1,5 +1,5 @@
 ## Alive and Kicking
-[MicroBlocks](http://microblocks.fun) - A (pre-alpha) dynamic, live, autonomous, concurrent, blocks-based language for 32 bit microcontrollers. With [John Maloney](https://harc.ycr.org/member/john_maloney/) and [Jens Mönig](https://github.com/jmoenig).  
+[MicroBlocks](http://microblocks.fun) - A dynamic, live, autonomous, concurrent, blocks-based language for 32 bit microcontrollers, currently in Alpha. With [John Maloney](https://harc.ycr.org/member/john_maloney/) and [Jens Mönig](https://github.com/jmoenig).  
 [Snap!Cloud](https://snap-cloud.cs10.org) - The new Snap*!* cloud, from which the social website will someday feed.  
 [Snap4Arduino](http://snap4arduino.rocks) - Control Arduino boards with Berkeley Snap*!*, available in 10 different flavors. With [Joan Guillén](http://github.com/jguille2).  
 [Beetle Blocks](http://beetleblocks.com) - Dynamically control a 3D beetle in a blocks programming environment based in Snap*!* to build 3D-printable things. With [Eric Rosenbaum](https://www.ericrosenbaum.com/) and [Duks Koschitz](https://www.pratt.edu/faculty_and_staff/bio/?id=duks).  
