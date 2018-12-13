@@ -37,7 +37,7 @@ function appendMarkdownFromURL (url) {
 }
 
 function appendMarkdownFromGitHub (fileName) {
-    appendMarkdownFromURL('https://cdn.rawgit.com/bromagosa/bromagosa.github.io/master/contents/' + fileName);
+    appendMarkdownFromURL('https://raw.githubusercontent.com/bromagosa/bromagosa.github.io/master/contents/' + fileName);
 }
 
 function select (sectionName, remote) {
