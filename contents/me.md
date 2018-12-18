@@ -6,7 +6,7 @@ While I was in college, I learned [Smalltalk](http://wiki.c2.com/?SmalltalkLangu
 
 I am part of the [Beauty and Joy of Computing](http://bjc.berkeley.edu) project, where I contribute to the [Snap<em>!</em>](http://snap.berkeley.edu) programming language/environment.  
 
-I hold a Bachelor's degree in Computer Science and a Master's degree in Free Software. I am an avid GNU/Linux user and a member of the Free Software Foundation. 
+I hold a Bachelor's degree in Computer Science and a Master's degree in Free Software. I am an avid GNU/Linux user and a member of the Free Software Foundation Europe. 
 
 I am currently freelancing, so if you have a project related to Snap<em>!</em> for me, drop me a line. 
 
