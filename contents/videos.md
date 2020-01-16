@@ -1,3 +1,16 @@
+## Articles
+
+I've written a few things about the projects I've been involved with. Most of these were written when I worked at the Citilab.
+
+* _2009_: [A Smalltalk by the Seaside: Implementing a Website the OO way](http://edutec.citilab.eu/downloads/TFC-ASmalltalkByTheSeaside.pdf) - Final Technical Computer Engineering Project, UOC
+* _2014_: [Edutec: Programar per Innovar](http://edutec.citilab.eu/downloads/Edutec-Programarperinnovar.pdf), by the [Edutec team](http://edutec.citilab.eu/#equip) (in Catalan)
+* _2015_: [El zoo de la computación](files/zoo.pdf) - Comunicación & Pedagogia Magazine (in Spanish)
+* _2016_: [Un gato blanco para el autonomismo dinámico](files/GatoBlanco.pdf) - Comunicación & Pedagogia Magazine (in Spanish)
+* _2016_: [From the Turtle to the Beetle: The Beetle Blocks programming environment](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/52807/6/bromagosaTFM0716mem%C3%B2ria.pdf) - Master's Thesis, Master's Degree in Free Software, UOC
+* _2017_: [The Snap! Programming System](files/snap-springer.pdf) - Springer Encyclopedia of Education and Information Technologies. Free to use for non-commercial and educational purposes
+
+## Videos
+
 In [my YouTube](https://www.youtube.com/channel/UC_EJUQg4zmOP3uoDIg_zRdg) channel you'll find lots of Snap4Arduino and microBlocks-related videos.  
 
 I also keep a [Snap4Arduino playlist](https://www.youtube.com/playlist?list=PL5OeDsbY1ElLa5FvQoejTFddsVZpp8Nah) with videos I keep finding around YouTube, and a -so far- tiny [Beetle Blocks](https://www.youtube.com/watch?v=6AFnVXoJqhU&list=PL5OeDsbY1ElLR_2maAXzM7WcKHA8q9ZH9) one.  
@@ -13,3 +26,5 @@ I also keep a [Snap4Arduino playlist](https://www.youtube.com/playlist?list=PL5O
 [Here](https://www.youtube.com/watch?v=Baox7w8D_TA)'s a talk I gave at Scratch@Bordeaux2017 about Snap4Arduino.  
 
 [Here](https://magsamond.com/2018/02/04/so-what-good-is-scratch-you-ask-a-perfect-pitch-3-minutes-answer-from-bromagosa/)'s a short conversation between my friend [Mags Amond](https://magsamond.com) and me about why Scratch is relevant and totally not just a toy.  
+
+[Here](https://www.youtube.com/watch?v=B6jvnrp-G3c)'s a talk and demo I gave at the first Snap!Con in Heidelberg about MicroBlocks, in 2019.
