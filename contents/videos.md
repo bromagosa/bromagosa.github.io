@@ -11,7 +11,7 @@ I've written a few things about the projects I've been involved with. Most of th
 
 ## Videos
 
-In [my YouTube](https://www.youtube.com/channel/UC_EJUQg4zmOP3uoDIg_zRdg) channel you'll find lots of Snap4Arduino and microBlocks-related videos.  
+In [my YouTube](https://www.youtube.com/channel/UC_EJUQg4zmOP3uoDIg_zRdg) channel you'll find a bunch of Snap4Arduino and MicroBlocks-related videos.  
 
 I also keep a [Snap4Arduino playlist](https://www.youtube.com/playlist?list=PL5OeDsbY1ElLa5FvQoejTFddsVZpp8Nah) with videos I keep finding around YouTube, and a -so far- tiny [Beetle Blocks](https://www.youtube.com/watch?v=6AFnVXoJqhU&list=PL5OeDsbY1ElLR_2maAXzM7WcKHA8q9ZH9) one.  
 
@@ -23,8 +23,11 @@ I also keep a [Snap4Arduino playlist](https://www.youtube.com/playlist?list=PL5O
 
 [Here](https://www.facebook.com/kelly.brieger/videos/10155230471170135/)'s a video that my friend [Kelly Brieger](https://twitter.com/KellyBriegerPR) live-streamed, where I demoed Snap4Arduino to passer-bys at the Maker Faire Bay Area in 2017. And [Here](https://www.youtube.com/watch?v=O8LiTWGNvK8)'s another short demo from that same event.  
 
-[Here](https://www.youtube.com/watch?v=Baox7w8D_TA)'s a talk I gave at Scratch@Bordeaux2017 about Snap4Arduino.  
+[Here](https://www.youtube.com/watch?v=Baox7w8D_TA)'s a talk I gave at Scratch@Bordeaux2017 about [Snap4Arduino](http://snap4arduino.rocks).  
 
 [Here](https://magsamond.com/2018/02/04/so-what-good-is-scratch-you-ask-a-perfect-pitch-3-minutes-answer-from-bromagosa/)'s a short conversation between my friend [Mags Amond](https://magsamond.com) and me about why Scratch is relevant and totally not just a toy.  
 
-[Here](https://www.youtube.com/watch?v=B6jvnrp-G3c)'s a talk and demo I gave at the first Snap!Con in Heidelberg about MicroBlocks, in 2019.
+[Here](https://www.youtube.com/watch?v=B6jvnrp-G3c)'s a talk and demo I gave at the first Snap!Con in Heidelberg about [MicroBlocks](http://microblocks.fun), in 2019.  
+
+[Here](https://www.youtube.com/watch?v=vbW4RnTZKBE)'s a talk I gave at the first Snap!Con in Heidelberg about the [Snap<em>!</em> Arcade Machine](http://snaparcade.cat), in 2019.
+
