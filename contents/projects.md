@@ -22,7 +22,7 @@
 **[Scaena](http://scaenaweb.citilab.eu:8081/scaena)** - Generate technical riders for music bands. Never completely finished, but quite functional. Source is [here](http://www.squeaksource.com/scaena).  
 **[Scat](https://code.google.com/archive/p/scat/)** - A terribly named attempt to port Scratch to Pharo Smalltalk. A new team took over and now it's called [Phratch](http://www.phratch.com). With [Joan Güell](https://www.citilab.eu/en/equip/joan-guell/), [Serge Stinckwich](http://www.doesnotunderstand.org/).  
 **[Scorer](https://sourceforge.net/projects/scorer/)** - The first Rescorer prototype. Helps you learn to read sheet music playfully. Written in Squeak Smalltalk.  
-**[My BASIC Oldies](https://github.com/bromagosa/myBasicOldies)** - The oldest programs written by me that I've managed to recover. The older ones written in an MSX died somewhere inside a cassette tape.  
+**[My BASIC Oldies](https://gitlab.com/bromagosa/myBasicOldies)** - The oldest programs written by me that I've managed to recover. The older ones written in an MSX died somewhere inside a cassette tape.  
 
 
 ## Some of my own Snap<em>!</em> Projects
