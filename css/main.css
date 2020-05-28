@@ -29,15 +29,16 @@ nav {
     padding: 0.5em;
 }
 
-#section-content {
-    background: #CACACA;
-    border: 1px dashed #23211D;
-}
-
 #section-content, nav {
     padding: 0.5em;
     max-width: 920px;
     margin: 0 auto;
+}
+
+#section-content {
+    background: #CACACA;
+    border: 1px dashed #23211D;
+    margin-bottom: 50px;
 }
 
 @keyframes bg {
