@@ -27,7 +27,8 @@ I also keep a [Snap4Arduino playlist](https://www.youtube.com/playlist?list=PL5O
 
 [Here](https://magsamond.com/2018/02/04/so-what-good-is-scratch-you-ask-a-perfect-pitch-3-minutes-answer-from-bromagosa/)'s a short conversation between my friend [Mags Amond](https://magsamond.com) and me about why Scratch is relevant and totally not just a toy.  
 
-[Here](https://www.youtube.com/watch?v=B6jvnrp-G3c)'s a talk and demo I gave at the first Snap!Con in Heidelberg about [MicroBlocks](http://microblocks.fun), in 2019.  
+[Here](https://www.youtube.com/watch?v=B6jvnrp-G3c)'s a talk and demo I gave at the first Snap!Con in Heidelberg about [MicroBlocks](https://microblocks.fun), in 2019.  
 
 [Here](https://www.youtube.com/watch?v=vbW4RnTZKBE)'s a talk I gave at the first Snap!Con in Heidelberg about the [Snap<em>!</em> Arcade Machine](http://snaparcade.cat), in 2019.
 
+[Here](https://kidslab.dev/2020/08/03/microblocks-with-bernat-romagosa/)'s an interview about [MicroBlocks](https://microblocks.fun) in [Sven Haiges](https://kidslab.dev/author/hansamann/)'s KidsLab podcast, from 2020.
