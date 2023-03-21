@@ -10,4 +10,4 @@ I hold a Bachelor's degree in Computer Science and a Master's degree in Free Sof
 
 The [MicroBlocks](http://microblocks.fun) project is actively looking for funding, so if you know of any funding opportunities please let us know.  
 
-You can reach me at bernat (at) romagosa (dot) work, and you can also check out my [GitHub](https://github.com/bromagosa) or follow me on [Twitter](https://twitter.com/bromagosa).  
+You can reach me at bernat (at) romagosa (dot) work, and you can also check out my [GitHub](https://github.com/bromagosa) and [GitLab](https://gitlab.com/bromagosa), or follow me on [Mastodon](https://mastodont.cat/@bromagosa).  
