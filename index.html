@@ -1,41 +1,35 @@
 <!DOCTYPE html>
 <html class="no-js">
-	<head>
-            <meta charset="utf-8">
-            <title>Bernat Romagosa</title>
-            <meta name="description" content="Bernat Romagosa">
-            <meta name="HandheldFriendly" content="True">
-            <meta name="MobileOptimized" content="320">
-            <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
-            <meta http-equiv="cleartype" content="on">
-            <link rel="icon" href="favicon.ico"/>
-            <link rel="stylesheet" href="css/normalize.css">
-            <link rel="stylesheet" href="css/main.css">
-            <script src="js/vendor/modernizr-2.7.1.min.js"></script>
-            <!-- Global site tag (gtag.js) - Google Analytics -->
-            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-116912124-1"></script>
-            <script>
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){dataLayer.push(arguments);}
-                gtag('js', new Date());
-
-                gtag('config', 'UA-116912124-1');
-            </script>
-	</head>
-        <body>
-            <div id="nav-container">
-                <nav>
-                    <a class="name" onclick="select('me')">Bernat Romagosa</a>
-                    <a onclick="select('projects')">Projects</a>
-                    <span> - </span>
-                    <a onclick="select('videos')">Videos and Articles</a>
-                </nav>
-            </div>
-            <div id="content">
-                <div id="section-content"></div>
-            </div>
-            <script src="js/vendor/markdown.js"></script>
-            <script src="js/main.js"></script>
-            <script>select('me');</script>
-        </body>
+  <head>
+    <meta charset="utf-8">
+    <title>Bernat Romagosa</title>
+    <meta name="description" content="Bernat Romagosa">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
+    <meta http-equiv="cleartype" content="on">
+    <link rel="icon" href="favicon.ico"/>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="js/vendor/modernizr-2.7.1.min.js"></script>
+  </head>
+  <body>
+    <div id="background"></div>
+    <div id="page">
+      <div id="nav-container">
+        <nav>
+          <a class="name" onclick="select('me')">Bernat Romagosa</a>
+          <a onclick="select('projects')">Projects</a>
+          <span> - </span>
+          <a onclick="select('videos')">Videos and Articles</a>
+        </nav>
+      </div>
+      <div id="content">
+        <div id="section-content"></div>
+      </div>
+      <script src="js/vendor/markdown.js"></script>
+      <script src="js/main.js"></script>
+      <script>select('me');</script>
+    </div>
+  </body>
 </html>

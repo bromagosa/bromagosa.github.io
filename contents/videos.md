@@ -29,6 +29,16 @@ I also keep a [Snap4Arduino playlist](https://www.youtube.com/playlist?list=PL5O
 
 [Here](https://www.youtube.com/watch?v=B6jvnrp-G3c)'s a talk and demo I gave at the first Snap!Con in Heidelberg about [MicroBlocks](https://microblocks.fun), in 2019.  
 
-[Here](https://www.youtube.com/watch?v=vbW4RnTZKBE)'s a talk I gave at the first Snap!Con in Heidelberg about the [Snap<em>!</em> Arcade Machine](http://snaparcade.cat), in 2019.
+[Here](https://www.youtube.com/watch?v=vbW4RnTZKBE)'s a talk I gave at the first Snap!Con in Heidelberg about the [Snap<em>!</em> Arcade Machine](http://snaparcade.cat), in 2019.  
 
-[Here](https://kidslab.dev/2020/08/03/microblocks-with-bernat-romagosa/)'s an interview about [MicroBlocks](https://microblocks.fun) in [Sven Haiges](https://kidslab.dev/author/hansamann/)'s KidsLab podcast, from 2020.
+[Here](https://kidslab.dev/2020/08/03/microblocks-with-bernat-romagosa/)'s an interview about [MicroBlocks](https://microblocks.fun) in [Sven Haiges](https://kidslab.dev/author/hansamann/)'s KidsLab podcast, from 2020.  
+
+[Here](https://www.youtube.com/watch?v=HVGCQsu8cXE)'s a keynote that Jens, Jadga and I gave at Snap!Shot 2020.  
+
+[Here](https://www.youtube.com/watch?v=DlQSm6r3I_g)'s a talk I gave at Snap!Con 2021 about why Smalltalk will always be my favorite language.  
+
+[Here](https://youtu.be/gqe0eUspCCY?t=394)'s a lightning talk I gave (or rather automated) at Snap!Con 2023 about hardware-driven metaprogramming in MicroBlocks.  
+
+[Here](https://www.youtube.com/live/sOZ-SPFGe3M?t=6030&si=Kr7qg_HoxNpH_2Si)'s a talk I gave at the Algorithmic Pattern Salon 2024 about Live Coding Physical MIDI Devices Using MicroBlocks.  
+
+[Here](https://archive.fosdem.org/2024/schedule/event/fosdem-2024-3104-live-coding-music-with-microblocks-and-microcontrollers-/)'s a talk I gave at FOSDEM 2024 about Live coding music with MicroBlocks and microcontrollers.  
