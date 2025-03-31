@@ -58,7 +58,11 @@ nav {
 #section-content {
   background: #CACACA;
   border: 1px dashed #23211D;
-  margin-bottom: 50px;
+  margin-bottom: 1em;
+}
+
+#content {
+  padding-bottom: 1em;
 }
 
 @keyframes bg {
