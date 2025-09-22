@@ -7,7 +7,8 @@ I've written a few things about the projects I've been involved with. Most of th
 * _2015_: [El zoo de la computación](files/zoo.pdf) - Comunicación & Pedagogia Magazine (in Spanish)
 * _2016_: [Un gato blanco para el autonomismo dinámico](files/GatoBlanco.pdf) - Comunicación & Pedagogia Magazine (in Spanish)
 * _2016_: [From the Turtle to the Beetle: The Beetle Blocks programming environment](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/52807/6/bromagosaTFM0716mem%C3%B2ria.pdf) - Master's Thesis, Master's Degree in Free Software, UOC
-* _2017_: [The Snap! Programming System](files/snap-springer.pdf) - Springer Encyclopedia of Education and Information Technologies. Free to use for non-commercial and educational purposes
+* _2020_: [The Snap! Programming System](files/snap-springer.pdf) - Springer Encyclopedia of Education and Information Technologies. Free to use for non-commercial and educational purposes
+* _2025_: [Adding Live Coding Music Capabilities to the MicroBlocks Educational Programming Language](https://zenodo.org/records/15526648) - Adding Live Coding Music Capabilities to the MicroBlocks Educational Programming Language. Presented at ICLC 2026.
 
 ## Videos
 
@@ -65,10 +66,6 @@ In [my YouTube](https://www.youtube.com/channel/UC_EJUQg4zmOP3uoDIg_zRdg) channe
 
 [Here](https://www.youtube.com/watch?v=0ft0J3rh3WY&t=645s)'s a talk (half in English, half in Catalan) [John Maloney](https://microblocks.fun/about) and I gave at Robolot 2024 about MicroBlocks.  
 
-[Here](https://www.youtube.com/watch?v=ox50OK8sF_0)'s one of my music Live Coding sessions with MicroBlocks at Niu Espai Artístic, Barcelona.  
-
-[Here](https://www.youtube.com/watch?v=-sL1bBZTulY)'s my contribution to the 2024 Solstice Stream. Again, live coding music with MicroBlocks.  
-
 ### 2025
 
 [Here](https://ftp.belnet.be/mirror/FOSDEM/video/2025/ud6215/fosdem-2025-4303-programming-3d-geometry-in-snap-.mp4)'s a talk I gave at FOSDEM 2025 about the Snap<em>!</em> 3D Beetle geometry extension.  
@@ -76,3 +73,5 @@ In [my YouTube](https://www.youtube.com/channel/UC_EJUQg4zmOP3uoDIg_zRdg) channe
 [Here](https://ftp.belnet.be/mirror/FOSDEM/video/2025/ud6215/fosdem-2025-4304-microblocks-2-0-a-complete-makeover.mp4)'s another talk I gave at FOSDEM 2025 about MicroBlocks 2.0.  
 
 [Here](https://ftp.belnet.be/mirror/FOSDEM/video/2025/janson/fosdem-2025-5369-program-to-learn-the-power-of-creative-coding.mp4)'s a keynote [Jens Mönig](http://github.com/jmoenig), [John Maloney](https://microblocks.fun/about) and I gave at FOSDEM 2025 about the Power of Creative Coding.  
+
+[Here](https://youtu.be/XBgqjfWRiL0?t=1675)'s a lightning talk I gave at Snap<em>!</em>Con2026 about creating a synthesizer in MicroBlocks and playing it from Snap<em>!</em>.
