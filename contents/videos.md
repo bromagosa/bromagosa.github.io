@@ -74,4 +74,6 @@ In [my YouTube](https://www.youtube.com/channel/UC_EJUQg4zmOP3uoDIg_zRdg) channe
 
 [Here](https://ftp.belnet.be/mirror/FOSDEM/video/2025/janson/fosdem-2025-5369-program-to-learn-the-power-of-creative-coding.mp4)'s a keynote [Jens Mönig](http://github.com/jmoenig), [John Maloney](https://microblocks.fun/about) and I gave at FOSDEM 2025 about the Power of Creative Coding.  
 
+[Here](https://iclc.toplap.org/2025/catalogue/paper/adding-live-coding-music-capabilities-to-the-microblocks.html)'s a talk I gave at ICLC 2026 on adding live coding capabilities to MicroBlocks.  
+
 [Here](https://youtu.be/XBgqjfWRiL0?t=1675)'s a lightning talk I gave at Snap<em>!</em>Con2026 about creating a synthesizer in MicroBlocks and playing it from Snap<em>!</em>.
