@@ -8,7 +8,7 @@ I've written a few things about the projects I've been involved with. Most of th
 * _2016_: [Un gato blanco para el autonomismo dinámico](files/GatoBlanco.pdf) - Comunicación & Pedagogia Magazine (in Spanish)
 * _2016_: [From the Turtle to the Beetle: The Beetle Blocks programming environment](http://openaccess.uoc.edu/webapps/o2/bitstream/10609/52807/6/bromagosaTFM0716mem%C3%B2ria.pdf) - Master's Thesis, Master's Degree in Free Software, UOC
 * _2020_: [The Snap! Programming System](files/snap-springer.pdf) - Springer Encyclopedia of Education and Information Technologies. Free to use for non-commercial and educational purposes
-* _2025_: [Adding Live Coding Music Capabilities to the MicroBlocks Educational Programming Language](https://zenodo.org/records/15526648) - Adding Live Coding Music Capabilities to the MicroBlocks Educational Programming Language. Presented at ICLC 2026.
+* _2025_: [Adding Live Coding Music Capabilities to the MicroBlocks Educational Programming Language](https://zenodo.org/records/15526648) - Adding Live Coding Music Capabilities to the MicroBlocks Educational Programming Language. Presented at ICLC 2025.
 
 ## Videos
 
@@ -74,6 +74,6 @@ In [my YouTube](https://www.youtube.com/channel/UC_EJUQg4zmOP3uoDIg_zRdg) channe
 
 [Here](https://ftp.belnet.be/mirror/FOSDEM/video/2025/janson/fosdem-2025-5369-program-to-learn-the-power-of-creative-coding.mp4)'s a keynote [Jens Mönig](http://github.com/jmoenig), [John Maloney](https://microblocks.fun/about) and I gave at FOSDEM 2025 about the Power of Creative Coding.  
 
-[Here](https://iclc.toplap.org/2025/catalogue/paper/adding-live-coding-music-capabilities-to-the-microblocks.html)'s a talk I gave at ICLC 2026 on adding live coding capabilities to MicroBlocks.  
+[Here](https://iclc.toplap.org/2025/catalogue/paper/adding-live-coding-music-capabilities-to-the-microblocks.html)'s a talk I gave at ICLC 2025 on adding live coding capabilities to MicroBlocks.  
 
 [Here](https://youtu.be/XBgqjfWRiL0?t=1675)'s a lightning talk I gave at Snap<em>!</em>Con2026 about creating a synthesizer in MicroBlocks and playing it from Snap<em>!</em>.
